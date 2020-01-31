@@ -11,7 +11,7 @@ module.exports = {
   author: 'Nutti Saelor',
   githubUrl: 'https://github.com/devlorz/devnote-demo',
   // replace this by the url where your website will be published
-  siteUrl: 'http://localhost:8000',
+  siteUrl: 'devnote-test.netlify.com',
   social: {
     // leave the social media you do not want to appear as empty strings
     twitter: 'JessHolicz',
